@@ -2,6 +2,7 @@ import { Space_Grotesk, Inter, IBM_Plex_Mono } from 'next/font/google';
 import './globals.css';
 import { NextIntlClientProvider } from 'next-intl';
 import { getLocale, getMessages } from 'next-intl/server';
+import { Metadata } from 'next';
 
 const display = Space_Grotesk({
   subsets: ['latin'],
@@ -21,10 +22,14 @@ const mono = IBM_Plex_Mono({
   variable: '--font-mono',
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'Pedro Henrique — Desenvolvedor Full Stack',
   description:
     'Portfolio Pedro Henrique: sobre, experiência e formas de contato.',
+  icons: {
+    icon: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
+  },
 };
 
 interface RootLayoutProps {
