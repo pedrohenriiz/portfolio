@@ -1,20 +1,3 @@
 # Portfolio
 
 Meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e experiência como desenvolvedor. O objetivo é reunir em um único lugar meus principais trabalhos, tecnologias e formas de contato.
-
-## Tecnologias
-
-Este projeto foi desenvolvido utilizando:
-
-- **Next.js 16**
-- **React 18**
-- **TypeScript**
-- **Tailwind CSS**
-
-## Sobre
-
-Este projeto representa meu portfólio profissional como desenvolvedor Full Stack, reunindo projetos pessoais e profissionais, estudos e experimentos com tecnologias modernas do ecossistema JavaScript.
-
-## 📄 Licença
-
-Este projeto está disponível sob a licença MIT.
