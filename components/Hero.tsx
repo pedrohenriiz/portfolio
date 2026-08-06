@@ -74,6 +74,14 @@ export default function Hero() {
           >
             {t('buttons.contact')}
           </a>
+
+          <a
+            href='/CV-Pedro-Henrique-Savarezzi-Maria.pdf'
+            download
+            className='rounded-sm border border-blueprint-600 px-5 py-2.5 font-mono text-sm text-paper-200 transition-colors hover:border-ice-400/60 hover:text-ice-400'
+          >
+            {t('buttons.download')}
+          </a>
         </div>
       </div>
     </section>
