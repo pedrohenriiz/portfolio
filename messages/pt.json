@@ -1,0 +1,79 @@
+{
+  "Header": {
+    "nav": {
+      "about": "sobre",
+      "experience": "experiência",
+      "technologies": "tecnologias",
+      "contact": "contato"
+    }
+  },
+
+  "Hero": {
+    "section": {
+      "softwareEngineer": "Desenvolvedor Full Stack",
+      "specialist": "Especialista em React & Next.js",
+      "description": "Arquitetando e desenvolvendo aplicações modernas de ponta a ponta."
+    },
+    "sectionChips": {
+      "softwareArchitecture": "Arquitetura de Software",
+      "react": "React",
+      "reactNative": "React Native",
+      "nodeJs": "Node.js",
+      "aws": "AWS"
+    },
+    "buttons": {
+      "seeExperience": "ver experiência",
+      "contact": "entrar em contato"
+    }
+  },
+
+  "About": {
+    "title": "sobre",
+    "aboutMe": "Um pouco sobre mim",
+
+    "description1": "Olá! Sou Pedro Henrique, desenvolvedor Full Stack com quase 6 anos de experiência criando aplicações web, mobile e desktop. Ao longo da minha carreira trabalhei principalmente com React, React Native, Node.js e TypeScript, participando do desenvolvimento de sistemas empresariais como ERPs, aplicativos mobile e soluções de ponto de venda.",
+    "description2": "Gosto de entender o problema antes de pensar na solução. Tenho interesse em arquitetura de software, organização de código e performance, buscando construir aplicações que sejam fáceis de evoluir e manter. Também gosto de participar das decisões técnicas e colaborar na definição da melhor abordagem para cada projeto.",
+    "description3": "Fora do trabalho, gosto de desenvolver projetos pessoais para experimentar novas ideias e aprender diferentes arquiteturas e tecnologias."
+  },
+
+  "Experience": {
+    "title": "experiência",
+    "professionalExperience": "Experiência profissional",
+
+    "work": [
+      {
+        "companyName": "DataSmart Softwares de Gestão",
+        "role": "Desenvolvedor Full Stack",
+        "shortDescription": "Desenvolvimento e evolução de um ecossistema completo de software de gestão: ERP web, app mobile e PDV desktop.",
+        "actions": [
+          "Implementou e manteve um ERP multi-tenant atendendo 50+ empresas em React",
+          "Desenvolveu API REST em Node.js centralizando emissão de Pix, Boletos e NF-e para 7 aplicações",
+          "Implementou testes automatizados com Vitest, Playwright e Maestro, reduzindo regressões em produção",
+          "Arquitetou e desenvolveu PDV com emissão fiscal (NF-e/NFC-e) em Electron"
+        ],
+        "stack": ["React", "React Native", "Electron", "Node.js", "AWS"],
+        "period": "jul/2020 — mar/2026"
+      }
+    ]
+  },
+
+  "Stack": {
+    "title": "tecnologias",
+    "technologies": "Tecnologias",
+    "description": "Organizadas por nível de domínio — do que uso todo dia ao que já utilizei em algum projeto.",
+
+    "ecoSystem": "Ecossistema React / Next.js",
+
+    "tiers": {
+      "specialist": "especialista",
+      "solidExperience": "experiência sólida",
+      "alsoWorked": "também trabalhei"
+    }
+  },
+
+  "Contact": {
+    "title": "contato",
+    "oportunity": "Aberto a conversas sobre novas oportunidades",
+    "description": "O jeito mais rápido de falar comigo é por e-mail."
+  }
+}

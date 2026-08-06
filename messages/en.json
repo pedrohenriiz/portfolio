@@ -1,0 +1,81 @@
+{
+  "Header": {
+    "nav": {
+      "about": "about",
+      "experience": "experience",
+      "technologies": "technologies",
+      "contact": "contact"
+    }
+  },
+
+  "Hero": {
+    "section": {
+      "softwareEngineer": "Full Stack Software Engineer",
+      "specialist": "React & Next.js Specialist",
+      "description": "Architecting and building modern end-to-end applications."
+    },
+    "sectionChips": {
+      "softwareArchitecture": "Software Architecture",
+      "react": "React",
+      "reactNative": "React Native",
+      "nodeJs": "Node.js",
+      "aws": "AWS"
+    },
+    "buttons": {
+      "seeExperience": "view experience",
+      "contact": "get in touch"
+    }
+  },
+
+  "About": {
+    "title": "about",
+    "aboutMe": "A little about me",
+
+    "description1": "Hi! I'm Pedro Henrique, a Full Stack Software Engineer with nearly 6 years of experience building web, mobile, and desktop applications. Throughout my career, I've worked primarily with React, React Native, Node.js, and TypeScript, contributing to enterprise software such as ERP systems, mobile applications, and point-of-sale solutions.",
+
+    "description2": "I enjoy understanding the problem before designing the solution. I'm particularly interested in software architecture, code organization, and performance, always aiming to build applications that are scalable, maintainable, and easy to evolve. I also enjoy contributing to technical decisions and helping define the best approach for each project.",
+
+    "description3": "Outside of work, I enjoy building personal projects to experiment with new ideas and explore different architectures and technologies."
+  },
+
+  "Experience": {
+    "title": "experience",
+    "professionalExperience": "Professional Experience",
+
+    "work": [
+      {
+        "companyName": "DataSmart Software de Gestão",
+        "role": "Full Stack Software Engineer",
+        "shortDescription": "Developed and evolved a complete business management software ecosystem, including a web ERP, mobile application, and desktop point-of-sale system.",
+        "actions": [
+          "Built and maintained a multi-tenant ERP serving over 50 companies using React",
+          "Developed a Node.js REST API that centralized Pix payments, bank slips, and electronic invoice (NF-e) processing for seven applications",
+          "Implemented automated testing with Vitest, Playwright, and Maestro, reducing production regressions",
+          "Architected and developed a desktop POS application with electronic invoicing (NF-e/NFC-e) using Electron"
+        ],
+        "stack": ["React", "React Native", "Electron", "Node.js", "AWS"],
+        "period": "Jul 2020 — Mar 2026"
+      }
+    ]
+  },
+
+  "Stack": {
+    "title": "technologies",
+    "technologies": "Technologies",
+    "description": "Organized by proficiency level — from the technologies I use every day to those I've worked with in past projects.",
+
+    "ecoSystem": "React / Next.js Ecosystem",
+
+    "tiers": {
+      "specialist": "Specialist",
+      "solidExperience": "Strong Experience",
+      "alsoWorked": "Also Worked With"
+    }
+  },
+
+  "Contact": {
+    "title": "contact",
+    "oportunity": "Open to new oportunities",
+    "description": "The fastest way to reach me is by email."
+  }
+}
